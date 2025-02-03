@@ -12,6 +12,6 @@ public class App
     {
         Logger log = Logger.getLogger(App.class.getName());
         log.info("Create Logger object and printing");
-        
+        log.info("writet the log to logfile" );
     }
 }
