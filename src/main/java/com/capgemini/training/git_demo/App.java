@@ -14,5 +14,7 @@ public class App
         log.info("Create Logger object and printing");
         log.info("writet the log to logfile" );
         log.info("Creted a new Branch called test");
+        
+        log.info("Testing");
     }
 }
